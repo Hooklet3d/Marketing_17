@@ -1,9 +1,19 @@
-# Machine Count for Maker Faires '17
+# Booth Items '17
 
-## Overview
+## Media
 
-## Mods on Display
+## Machine Count for Maker Faires '17
 
-## Backup Rotation
+### Overview
+
+### Mods on Display
+
+### Backup Rotation
 
   We need to accept that what can go wrong will, let's think about what we should have in reserve to account for a downed machine.  
+
+## Handout Items
+
+  What to print... 
+  
+## Showcase Projects
